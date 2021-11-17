@@ -1,0 +1,16 @@
+body {
+  background-color: coral;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  color: rebeccapurple;
+}
